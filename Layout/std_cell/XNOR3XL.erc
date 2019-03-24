@@ -1,0 +1,26 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'XNOR3XL layout XNOR3XL':
+  info: Assign pin label "vss" at (0.0775, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2575, 0.3900) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.0500, 1.3550) to layer `metal1_conn'.
+  info: Assign pin label "b" at (1.1875, 0.6600) to layer `metal1_conn'.
+  info: Assign pin label "c" at (1.8400, 0.6850) to layer `metal1_conn'.
+  info: Assign pin label "y" at (2.3450, 0.1875) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'XNOR3XL layout XNOR3XL':
+  info: Assign pin label "vss" at (0.0775, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2575, 0.3900) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.0500, 1.3550) to layer `metal1_conn'.
+  info: Assign pin label "b" at (1.1875, 0.6600) to layer `metal1_conn'.
+  info: Assign pin label "c" at (1.8400, 0.6850) to layer `metal1_conn'.
+  info: Assign pin label "y" at (2.3450, 0.1875) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

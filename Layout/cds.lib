@@ -1,0 +1,17 @@
+DEFINE sample $CDSHOME/tools/dfII/samples/cdslib/sample
+DEFINE connectlib $AMSHOME/tools/affirma_ams/etc/connect_lib/connectLib
+
+SOFTINCLUDE $ANALOG/45nm/cds.lib
+UNDEFINE gpdk045
+DEFINE gpdk090 &ANALOG/90nm/libs.oa22/gpdk090
+DEFINE gpdk180 &ANALOG/180nm/libs.oa22/gpdk180
+
+DEFINE rfLib_new $FOUNDRY/rfLib_new
+
+DEFINE gpdk045 /tools/cadence/FOUNDRY/analog/45nm/gpdk045
+DEFINE avTech /tools/cadence/ASSURA41/tools.Inx86/assura/etc/avtech/avTech
+#Removed by ddDeleteObj: DEFINE a /home/vv2trainee2/Desktop/Deekshith/a
+DEFINE inv /home/vv2trainee2/Desktop/Deekshith/inv
+DEFINE inv /home/vv2trainee2/Desktop/Deekshith/inv
+DEFINE stdsd /home/vv2trainee8/Desktop/Sourabh/Layout/stdsd
+DEFINE avTech /tools/cadence/ASSURA41/tools.lnx86/assura/etc/avtech/avTech

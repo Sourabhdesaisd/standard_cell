@@ -1,0 +1,13 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NOR4BX2 layout NOR4BX2':
+  info: Assign pin label "vss" at (0.3700, 0.0075) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2500, 0.6650) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.8525, 0.8625) to layer `metal1_conn'.
+  info: Assign pin label "c" at (1.0625, 0.6625) to layer `metal1_conn'.
+  info: Assign pin label "d" at (1.3900, 0.6475) to layer `metal1_conn'.
+  info: Assign pin label "y" at (2.2475, 0.5875) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

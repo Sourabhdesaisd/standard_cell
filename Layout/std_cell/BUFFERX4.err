@@ -1,0 +1,98 @@
+================================================================================
+Rule No. 221 : psubstrate_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : BUFFERX4 layout BUFFERX4
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  0.000       -0.050       1.390        1.400
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        0.000     -0.050      1.390      1.400
+
+================================================================================
+Rule No. 227 : nwell_conn_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : BUFFERX4 layout BUFFERX4
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  0.000        0.675       1.390        1.350
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        0.000      0.675      1.390      1.350
+
+================================================================================
+Rule No. 678 : LATCHUP.1: The maximum distance from any point in a P+ source/drain Active Area to the nearest Nwell pick-up in the same Nwell >= 20.0 um
+
+Real Error Count : 6; Flat Error Count : 6
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : BUFFERX4 layout BUFFERX4
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             6              6                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  0.080        0.775       1.320        1.220
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        0.080      0.775      0.220      1.220
+   2      X        0.270      0.775      0.500      1.220
+   3      X        0.550      0.775      0.710      1.220
+   4      X        0.760      0.775      0.920      1.220
+   5      X        0.970      0.775      1.130      1.220
+   6      X        1.180      0.775      1.320      1.220
+
+================================================================================
+Rule No. 679 : LATCHUP.2: The maximum distance from any point in a N+ source/drain Active Area to the nearest Psub pick-up in the same Psub >= 20.0 um
+
+Real Error Count : 6; Flat Error Count : 6
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : BUFFERX4 layout BUFFERX4
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             6              6                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  0.080        0.135       1.320        0.515
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        0.080      0.135      0.220      0.515
+   2      X        0.270      0.135      0.500      0.515
+   3      X        0.550      0.135      0.710      0.515
+   4      X        0.760      0.135      0.920      0.515
+   5      X        0.970      0.135      1.130      0.515
+   6      X        1.180      0.135      1.320      0.515
+

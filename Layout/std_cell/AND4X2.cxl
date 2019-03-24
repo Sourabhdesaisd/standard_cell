@@ -1,0 +1,32 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "AND4X2 schematic AND4X2" "AND4X2 layout AND4X2"
+N net80 avC8
+N a a
+N b b
+N c c
+N d d
+N y y
+N vdd vdd
+N vss vss
+I NM4 avD2_5
+I NM0 avD2_1
+I NM3 avD2_4
+I NM2 avD2_3
+I NM1 avD2_2
+I PM4 avD10_5
+I PM3 avD10_4
+I PM2 avD10_3
+I PM1 avD10_2
+I PM0 avD10_1
+

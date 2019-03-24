@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'OR2X6 layout OR2X6':
+  info: Assign pin label "vss" at (0.0575, 0.0000) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2150, 0.5125) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.4800, 0.5325) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.0550, 1.3525) to layer `metal1_conn'.
+  info: Assign pin label "y" at (0.9625, 0.9850) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

@@ -1,0 +1,9 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 unmatched connect pin
+1 1 ((S "NM2" "g45n1svt")(L "avD2_10" "g45n1svt")(("B" "vss" "avS101")))
+1 1 ((S "NM3" "g45n1svt")(L "avD2_9" "g45n1svt")(("B" "vss" "avS101")))
+1 1 ((S "I##9" "g45n1svt:SerMos2#1")(L "I##33" "g45n1svt:SerMos2#1")(("TERM4" "vss" "avS101")))
+1 1 ((S "I##10" "g45p1svt:ParMos2#1")(L "I##34" "g45p1svt:ParMos2#1")(("TERM4" "vdd" "avC14")))
+1 1 ((S "I##11" "g45p1svt:SerMos4#1")(L "I##35" "g45p1svt:SerMos4#1")(("TERM4" "vdd" "avC14")))

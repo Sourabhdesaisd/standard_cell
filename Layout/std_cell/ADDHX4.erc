@@ -1,0 +1,13 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'ADDHX4 layout ADDHX4':
+  info: Assign pin label "vss" at (0.0800, 0.0000) to layer `metal1_conn'.
+  info: Assign pin label "s" at (0.3450, 0.6525) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.0550, 1.3550) to layer `metal1_conn'.
+  info: Assign pin label "a" at (1.0625, 0.8400) to layer `metal1_conn'.
+  info: Assign pin label "b" at (2.4575, 0.6650) to layer `metal1_conn'.
+  info: Assign pin label "c" at (3.8900, 0.6475) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

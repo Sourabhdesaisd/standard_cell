@@ -1,0 +1,23 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "BUFFERX4 schematic BUFFERX4" "BUFFERX4 layout BUFFERX4"
+N net3 avC5
+N a a
+N y y
+N vdd vdd
+N vss vss
+I PM1 avD10_2
+I PM0 avD10_1
+I NM1 avD2_2
+I NM0 avD2_1
+

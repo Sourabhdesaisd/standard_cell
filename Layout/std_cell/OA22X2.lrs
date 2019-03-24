@@ -1,0 +1,35 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII6.1.7-64b:IC6.1.7-64b.500.12 05/03/2018 22:02 (sjfhw625) $
+sub-version 4.1_USR5_HF15, integ signature 2018-05-03-2129
+run on compute-srv2.eda.atme.in at Tue Feb 26 02:06:26 2019
+
+Schematic                     | Layout                     | Status
+-------------------------------------------------------------------------------
+OA22X2 schematic OA22X4       | OA22X2 layout OA22X4       | matched        
+
+Schematic and Layout Match
+
+Schematic:
+  Library:OA22X4
+  Cell   :OA22X2
+  View   :schematic
+
+Layout:
+  Library:OA22X4
+  Cell   :OA22X2
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     0 cells have 0 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+

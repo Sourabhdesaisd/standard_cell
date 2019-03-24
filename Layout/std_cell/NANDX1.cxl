@@ -1,0 +1,23 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "NANDX1 schematic NANDX1" "NANDX1 layout NANDX1"
+N vss vss
+N vdd vdd
+N a a
+N b b
+N y y
+I NM1 avD2_2
+I NM0 avD2_1
+I PM1 avD10_2
+I PM0 avD10_1
+

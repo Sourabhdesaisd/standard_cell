@@ -1,0 +1,35 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "OAl22X2 schematic OAl222X2" "OAl22X2 layout OAl222X2"
+N vdd vdd
+N vss vss
+N y y
+N b1 b1
+N b0 b0
+N a1 a1
+N a0 a0
+N c0 c0
+N c1 c1
+I PM5 avD10_10
+I PM4 avD10_5
+I PM3 avD10_1
+I PM2 avD10_9
+I PM1 avD10_6
+I PM0 avD10_2
+I NM5 avD2_10
+I NM4 avD2_9
+I NM3 avD2_5
+I NM2 avD2_6
+I NM1 avD2_1
+I NM0 avD2_2
+

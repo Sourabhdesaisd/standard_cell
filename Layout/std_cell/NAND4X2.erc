@@ -1,0 +1,14 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NAND4X2 layout NAND4X2':
+  info: Assign pin label "vss" at (0.1100, -0.0050) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.4300, 0.5250) to layer `metal1_conn'.
+  info: Assign pin label "y" at (0.1350, 0.8400) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2700, 0.8350) to layer `metal1_conn'.
+  info: Assign pin label "c" at (0.6425, 0.6050) to layer `metal1_conn'.
+  info: Assign pin label "d" at (0.8800, 0.6625) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.3375, 1.3500) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

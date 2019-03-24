@@ -1,0 +1,44 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "ADDHX4 schematic ADDHX4" "ADDHX4 layout ADDHX4"
+N net049 avC12
+N net24 avC9
+N b' avC11
+N a' avC8
+N a a
+N b b
+N s s
+N c c
+N vdd vdd
+N vss vss
+I PM10 avD10_2
+I PM13 avD10_4
+I PM8 avD10_9
+I PM11 avD10_3
+I PM5 avD10_1
+I PM4 avD10_16
+I PM3 avD10_15
+I PM2 avD10_8
+I PM1 avD10_14
+I PM0 avD10_13
+I NM11 avD2_4
+I NM6 avD2_9
+I NM5 avD2_16
+I NM4 avD2_15
+I NM3 avD2_8
+I NM2 avD2_14
+I NM1 avD2_1
+I NM0 avD2_13
+I NM13 avD2_3
+I NM12 avD2_2
+

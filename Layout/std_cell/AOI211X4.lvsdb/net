@@ -1,0 +1,7 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 bind match unmatched shorts opens
+1 0 ((L "vdd")((1 "g45p1svt:SerMos4#1" ( "OUT" "OUT2")))(S "vdd")((1 "g45p1svt:ParMos2#1" ( "TERM4"))(1 "g45p1svt:SerMos4#1" ( "OUT" "OUT2"))(1 "g45p1svt:SerMos4#1" ( "TERM4"))))
+1 0 ((L "vss")((2 "g45n1svt" ( "D" "S"))(1 "g45n1svt:SerMos2#1" ( "OUT" "OUT2")))(S "vss")((2 "g45n1svt" ( "D" "S"))(2 "g45n1svt" ( "B"))(1 "g45n1svt:SerMos2#1" ( "OUT" "OUT2"))(1 "g45n1svt:SerMos2#1" ( "TERM4"))))
+1 2 ((L "avS101")(L "avC14"))

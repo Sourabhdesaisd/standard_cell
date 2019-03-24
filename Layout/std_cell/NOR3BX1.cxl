@@ -1,0 +1,29 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "NOR3BX1 schematic NOR2BX1" "NOR3BX1 layout NOR2BX1"
+N a' avC7
+N a a
+N b b
+N c c
+N y y
+N vdd vdd
+N vss vss
+I PM3 avD10_1
+I PM2 avD10_4
+I PM1 avD10_3
+I PM0 avD10_2
+I NM3 avD2_1
+I NM2 avD2_4
+I NM1 avD2_3
+I NM0 avD2_2
+

@@ -1,0 +1,35 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "AOI32X1 schematic AOI32X1" "AOI32X1 layout AOI32X1"
+N net09 avC10
+N a0 a0
+N a1 a1
+N a2 a2
+N b0 b0
+N b1 b1
+N y y
+N vdd vdd
+N vss vss
+I NM5 avD2_6
+I NM4 avD2_5
+I NM3 avD2_4
+I NM2 avD2_1
+I NM1 avD2_2
+I NM0 avD2_3
+I PM5 avD10_6
+I PM4 avD10_5
+I PM3 avD10_4
+I PM2 avD10_3
+I PM1 avD10_2
+I PM0 avD10_1
+

@@ -1,0 +1,106 @@
+================================================================================
+Rule No. 221 : psubstrate_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : OAI31X2 layout OAI31X2
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  0.000       -0.045       2.150        1.405
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        0.000     -0.045      2.150      1.405
+
+================================================================================
+Rule No. 227 : nwell_conn_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : OAI31X2 layout OAI31X2
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  0.000        0.680       2.150        1.355
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        0.000      0.680      2.150      1.355
+
+================================================================================
+Rule No. 678 : LATCHUP.1: The maximum distance from any point in a P+ source/drain Active Area to the nearest Nwell pick-up in the same Nwell >= 20.0 um
+
+Real Error Count : 10; Flat Error Count : 10
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : OAI31X2 layout OAI31X2
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                            10             10                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  0.080        0.780       2.080        1.225
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        0.080      0.780      0.220      1.225
+   2      X        0.270      0.780      0.430      1.225
+   3      X        0.480      0.780      0.640      1.225
+   4      X        0.690      0.780      0.850      1.225
+   5      X        0.900      0.780      1.060      1.225
+   6      X        1.110      0.780      1.270      1.225
+   7      X        1.320      0.780      1.460      1.225
+   8      X        1.540      0.780      1.680      1.225
+   9      X        1.730      0.780      1.890      1.225
+  10      X        1.940      0.780      2.080      1.225
+
+================================================================================
+Rule No. 679 : LATCHUP.2: The maximum distance from any point in a N+ source/drain Active Area to the nearest Psub pick-up in the same Psub >= 20.0 um
+
+Real Error Count : 10; Flat Error Count : 10
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : OAI31X2 layout OAI31X2
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                            10             10                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  0.080        0.135       2.080        0.520
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        0.080      0.135      0.220      0.520
+   2      X        0.270      0.135      0.430      0.520
+   3      X        0.480      0.135      0.640      0.520
+   4      X        0.690      0.135      0.850      0.520
+   5      X        0.900      0.135      1.060      0.520
+   6      X        1.110      0.135      1.270      0.520
+   7      X        1.320      0.135      1.460      0.520
+   8      X        1.540      0.135      1.680      0.520
+   9      X        1.730      0.135      1.890      0.520
+  10      X        1.940      0.135      2.080      0.520
+

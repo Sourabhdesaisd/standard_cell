@@ -1,0 +1,18 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.7 - CAT35 03/14/2018 00:55 (sjfhw314) $
+\o Sub version:		sub-version  s191 
+\o Arguments:		-cdslib /home/vv2trainee8/Desktop/Sourabh/Layout/cds.lib -mpssession virtuoso79612 -mpshost compute-srv2.eda.atme.in 
+\o Working Directory:	compute-srv2.eda.atme.in:/home/vv2trainee8/Desktop/Sourabh/Layout
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		4.8.5
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "sample"
+\a nrResizeWindow(cdsLibEditor list(28 58 500 400))
+\a nrListItemAction(cdsLibEditor->mainTable 5 1)
+\o Active cell: 5 1 "/tools/cadence/FOUNDRY/analog/45nm/gpdk045"
+\a nrListItemAction(cdsLibEditor->mainTable 2 1)
+\o Active cell: 2 1 "&ANALOG/90nm/libs.oa22/gpdk090"
+\a cdsLibEditor->fileExitButton->value = t
+\a nrSetWindowVisibility(cdsLibEditor "hide")
+\a exit(0)

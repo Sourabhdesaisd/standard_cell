@@ -1,0 +1,49 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "XNOR3XL schematic XNOR3XL" "XNOR3XL layout XNOR3XL"
+N s' avC10
+N s avC9
+N c' avC11
+N b' avC7
+N a' avC8
+N a a
+N b b
+N c c
+N y y
+N vdd vdd
+N vss vss
+I PM25 avD10_1
+I PM23 avD10_4
+I PM22 avD10_5
+I PM21 avD10_3
+I PM20 avD10_2
+I PM19 avD10_9
+I PM18 avD10_8
+I PM17 avD10_10
+I PM16 avD10_11
+I PM2 avD10_6
+I PM1 avD10_12
+I PM0 avD10_7
+I NM25 avD2_1
+I NM23 avD2_5
+I NM22 avD2_4
+I NM2 avD2_6
+I NM1 avD2_12
+I NM0 avD2_7
+I NM21 avD2_2
+I NM20 avD2_3
+I NM19 avD2_8
+I NM18 avD2_9
+I NM17 avD2_11
+I NM16 avD2_10
+

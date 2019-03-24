@@ -1,0 +1,14 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.7 - CAT35 03/14/2018 00:55 (sjfhw314) $
+\o Sub version:		sub-version  s191 
+\o Arguments:		-cdslib /home/vv2trainee8/Desktop/Sourabh/Layout/std_cell/cds.lib -mpssession virtuoso78255 -mpshost compute-srv2.eda.atme.in 
+\o Working Directory:	compute-srv2.eda.atme.in:/home/vv2trainee8/Desktop/Sourabh/Layout/std_cell
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		4.8.5
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "cdsDefTechLib"
+\a nrResizeWindow(cdsLibEditor list(28 58 500 400))
+\a cdsLibEditor->fileExitButton->value = t
+\a nrSetWindowVisibility(cdsLibEditor "hide")
+\a exit(0)

@@ -1,0 +1,3 @@
+#!/bin/sh -f
+/tools/cadence/ASSURA41/tools.lnx86/assura/bin/assura /home/vv2trainee8/Desktop/Sourabh/Layout/std_cell/OAl22X2.rsf -cdslib /home/vv2trainee8/Desktop/Sourabh/Layout/std_cell/cds.lib -gui
+exit $?

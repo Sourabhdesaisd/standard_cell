@@ -1,0 +1,50 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NANDX4 layout NANDX4':
+  info: Assign pin label "vss" at (0.3550, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2700, 0.5300) to layer `metal1_conn'.
+  info: Assign pin label "y" at (0.1375, 0.7125) to layer `metal1_conn'.
+  info: Assign pin label "vss" at (0.9650, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.4825, 0.5250) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.8375, 0.5250) to layer `metal1_conn'.
+  info: Assign pin label "a" at (1.0500, 0.5300) to layer `metal1_conn'.
+  info: Assign pin label "vss" at (1.5950, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.3450, 1.3625) to layer `metal1_conn'.
+  info: Assign pin label "vss" at (2.2050, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "a" at (1.5100, 0.7050) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.9750, 1.3625) to layer `metal1_conn'.
+  info: Assign pin label "b" at (1.7225, 0.8850) to layer `metal1_conn'.
+  info: Assign pin label "b" at (2.0775, 0.7800) to layer `metal1_conn'.
+  info: Assign pin label "a" at (2.2900, 0.6350) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.5850, 1.3625) to layer `metal1_conn'.
+  info: Assign pin label "y" at (2.4225, 0.7125) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (2.2150, 1.3625) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'NANDX4 layout NANDX4':
+  info: Assign pin label "vss" at (0.3550, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2700, 0.5300) to layer `metal1_conn'.
+  info: Assign pin label "y" at (0.1375, 0.7125) to layer `metal1_conn'.
+  info: Assign pin label "vss" at (0.9650, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.4825, 0.5250) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.8375, 0.5250) to layer `metal1_conn'.
+  info: Assign pin label "a" at (1.0500, 0.5300) to layer `metal1_conn'.
+  info: Assign pin label "vss" at (1.5950, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.3450, 1.3625) to layer `metal1_conn'.
+  info: Assign pin label "vss" at (2.2050, -0.0025) to layer `metal1_conn'.
+  info: Assign pin label "a" at (1.5100, 0.7050) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.9750, 1.3625) to layer `metal1_conn'.
+  info: Assign pin label "b" at (1.7225, 0.8850) to layer `metal1_conn'.
+  info: Assign pin label "b" at (2.0775, 0.7800) to layer `metal1_conn'.
+  info: Assign pin label "a" at (2.2900, 0.6350) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.5850, 1.3625) to layer `metal1_conn'.
+  info: Assign pin label "y" at (2.4225, 0.7125) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (2.2150, 1.3625) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

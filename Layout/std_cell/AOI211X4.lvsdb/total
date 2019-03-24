@@ -1,0 +1,5 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 device net parameter pin rewire total
+1  5 (( ( S "AOI211X4 layout AOI211X4" )( L "AOI211X4 schematic AOI211X4" ) )(( 1 9 7 )( 4 5 0 )))

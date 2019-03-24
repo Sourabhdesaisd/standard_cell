@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NOR3BX1 layout NOR3BX1':
+  info: Assign pin label "a" at (0.2200, 0.5225) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.2925, 1.3500) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.7875, 0.8625) to layer `metal1_conn'.
+  info: Assign pin label "c" at (0.9975, 0.8525) to layer `metal1_conn'.
+  info: Assign pin label "y" at (1.1825, 0.6775) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      vv2trainee8
+HostName                       compute-srv2.eda.atme.in
+ProcessIdentifier              66867
+ProcessCreationTime_UTC        1552848889
+ProcessCreationTime_Readable   Mon Mar 18 00:24:49 2019 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/vv2trainee8/Desktop/Sourabh/Layout/std_cell/OAI31X2/OAI31X2/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Tue Mar 19 21:39:53 2019 IST
